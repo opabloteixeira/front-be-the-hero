@@ -1,3 +1,31 @@
+# Be The Hero
+
+## Frontend React
+
+- Utilizo o componente do react-router-dom LINK, para ter o comportamento de spa e não recarregar as páginas quando trocado de rota
+- ``import Link from 'react-router-dom';``
+```
+<Link to="/register"> 
+    <FiLogIn size={16} color="#E02041"/>
+    Não tenho cadastro
+</Link>
+```
+- React-icons para os icones do sistemas 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
