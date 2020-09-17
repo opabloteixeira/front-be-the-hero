@@ -1,7 +1,7 @@
 # Be The Hero
 
 ## Frontend React
-Pequena aplicação que cadastra casos em ReactJS
+Pequena aplicação que cadastra casos em ReactJS..
 
 ## Demostração
 ![png1](git-imgs/be-the-hero01.png)
