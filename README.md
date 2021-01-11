@@ -16,7 +16,7 @@ Pequena aplicação que cadastra casos em ReactJS.
     Não tenho cadastro
 </Link>
 ```
-- React-icons para os icones do sistemas 
+- React-icons para os icones do sistemas .
 
 
 
